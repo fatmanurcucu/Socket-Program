@@ -1,0 +1,42 @@
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.Form1.resources
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.GenerateResource.cache
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.AssemblyInfoInputs.cache
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.AssemblyInfo.cs
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.CoreCompileInputs.cache
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.exe.config
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.exe
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.pdb
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SimpleTCP.dll
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.CopyComplete
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.exe
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.pdb
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\Newtonsoft.Json.dll
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csprojAssemblyReference.cache
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.exe
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.pdb
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.exe.config
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.exe
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.pdb
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\Newtonsoft.Json.dll
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SimpleTCP.dll
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csprojAssemblyReference.cache
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.Server.resources
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.GenerateResource.cache
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.AssemblyInfoInputs.cache
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.AssemblyInfo.cs
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.CoreCompileInputs.cache
+C:\Users\ammar\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.CopyComplete
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.exe.config
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.exe
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SocketProgram.pdb
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\Newtonsoft.Json.dll
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\bin\Debug\net4.8-windows\SimpleTCP.dll
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csprojAssemblyReference.cache
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.Server.resources
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.GenerateResource.cache
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.AssemblyInfoInputs.cache
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.AssemblyInfo.cs
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.CoreCompileInputs.cache
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.csproj.CopyComplete
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.exe
+C:\Users\CUCU\Desktop\SocketProgram\SocketProgram\obj\Debug\net4.8-windows\SocketProgram.pdb

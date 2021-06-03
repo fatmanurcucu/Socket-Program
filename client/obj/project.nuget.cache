@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "fENQz3RrLm4yS01QiQvQC2bKTXetHuCyefr+RPlktejOnM0QXbOgxMos08Kkm8V6+UEOMG5Kr7N8BCl5NG0fIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CUCU\\Desktop\\SocketProgram\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CUCU\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'SimpleTCP 1.0.24' paketi, proje hedef çerçevesi 'net5.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "SimpleTCP",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

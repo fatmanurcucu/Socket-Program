@@ -1,0 +1,60 @@
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.GenerateResource.cache
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.AssemblyInfo.cs
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.CoreCompileInputs.cache
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\bin\Debug\net5.0-windows\client.exe
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\bin\Debug\net5.0-windows\client.deps.json
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\bin\Debug\net5.0-windows\client.runtimeconfig.json
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\bin\Debug\net5.0-windows\client.runtimeconfig.dev.json
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\bin\Debug\net5.0-windows\client.dll
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\bin\Debug\net5.0-windows\ref\client.dll
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\bin\Debug\net5.0-windows\client.pdb
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\bin\Debug\net5.0-windows\SimpleTCP.dll
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.CopyComplete
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.dll
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\ref\client.dll
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.pdb
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.genruntimeconfig.cache
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.csprojAssemblyReference.cache
+C:\Users\CUCU\Desktop\ödev pcağ\SocketProgram\client\obj\Debug\net5.0-windows\client.Form1.resources
+C:\Users\ammar\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.exe
+C:\Users\ammar\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.deps.json
+C:\Users\ammar\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.runtimeconfig.json
+C:\Users\ammar\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.runtimeconfig.dev.json
+C:\Users\ammar\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.dll
+C:\Users\ammar\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\ref\client.dll
+C:\Users\ammar\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.pdb
+C:\Users\ammar\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\SimpleTCP.dll
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.csprojAssemblyReference.cache
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.GenerateResource.cache
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.AssemblyInfo.cs
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.CoreCompileInputs.cache
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.CopyComplete
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.dll
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\ref\client.dll
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.pdb
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.genruntimeconfig.cache
+C:\Users\ammar\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.Client.resources
+C:\Users\CUCU\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.exe
+C:\Users\CUCU\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.deps.json
+C:\Users\CUCU\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.runtimeconfig.json
+C:\Users\CUCU\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.runtimeconfig.dev.json
+C:\Users\CUCU\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.dll
+C:\Users\CUCU\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\ref\client.dll
+C:\Users\CUCU\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\client.pdb
+C:\Users\CUCU\Desktop\SocketProgram\client\bin\Debug\net5.0-windows\SimpleTCP.dll
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.csprojAssemblyReference.cache
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.Client.resources
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.GenerateResource.cache
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.AssemblyInfo.cs
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.CoreCompileInputs.cache
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.csproj.CopyComplete
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.dll
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\ref\client.dll
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.pdb
+C:\Users\CUCU\Desktop\SocketProgram\client\obj\Debug\net5.0-windows\client.genruntimeconfig.cache

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CUCU\\Desktop\\SocketProgram\\SocketProgram\\SocketProgram.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CUCU\\Desktop\\SocketProgram\\SocketProgram\\SocketProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CUCU\\Desktop\\SocketProgram\\SocketProgram\\SocketProgram.csproj",
+        "projectName": "SocketProgram",
+        "projectPath": "C:\\Users\\CUCU\\Desktop\\SocketProgram\\SocketProgram\\SocketProgram.csproj",
+        "packagesPath": "C:\\Users\\CUCU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CUCU\\Desktop\\SocketProgram\\SocketProgram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CUCU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "SimpleTCP": {
+              "target": "Package",
+              "version": "[1.0.24, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
